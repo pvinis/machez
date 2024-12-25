@@ -1,0 +1,10 @@
+{
+	"name": "machez",
+	"version": "0.0.1",
+	"devDependencies": {
+		"@biomejs/biome": "^1.9.4"
+	},
+	"trustedDependencies": [
+		"core-js"
+	]
+}
