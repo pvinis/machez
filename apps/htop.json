@@ -1,0 +1,5 @@
+{
+	"name": "htop",
+	"home_paths": [".htoprc"],
+	"xdg_config_paths": ["htop/htoprc"]
+}
