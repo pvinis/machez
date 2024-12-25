@@ -1,0 +1,6 @@
+{
+	"nodeModulesDir": "auto",
+	"imports": {
+		"@biomejs/biome": "npm:@biomejs/biome@^1.9.4"
+	}
+}
